@@ -1,0 +1,28 @@
+.top{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.top-header{
+  width: 300px;
+  background-color: rgb(54, 54, 54);
+  padding: 30px;
+  margin: 30px;
+  border-radius: 8px;
+}
+
+img{
+  width: 80px;
+  height: 80px; 
+  border-radius: 50%;
+}
+
+h1{
+  text-align: center;
+  color: white ;
+}
+
+p{
+text-align: center;
+color: white;
+}
